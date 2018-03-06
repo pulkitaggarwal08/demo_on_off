@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoOnOFF</string>
+    <string name="get_location">Get Location</string>
+</resources>
